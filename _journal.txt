@@ -1,0 +1,2 @@
+What is PGP (Pretty Good Privacy)
+https://theprivacyguide.org/tutorials/pgp.html
